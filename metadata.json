@@ -1,0 +1,6 @@
+{
+  "name": "Elysian Weddings",
+  "description": "Premium Wedding Hall Management System with Gemini AI Customer Support Chatbot, Real-time Booking Calendar, Multi-user Vendor Dashboards, Access Control Roles, and Performance Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
